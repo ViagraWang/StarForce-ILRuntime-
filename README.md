@@ -1,2 +1,4 @@
 # StarForce-ILRuntime-
-将E大的GameFramework框架飞机游戏StarForce，改为接入ILRuntime的热更新模式，完美实现热更新
+将E大的GameFramework框架飞机游戏StarForce，改为接入ILRuntime的热更新模式，完美实现IL热更新和反射加载程序集的更新模式，工程可以直接运行。
+个人修改和扩展了配置表的读取和序列化工具，以及资源更新逻辑。
+添加了几个常用的扩展编辑器工具。
