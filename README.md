@@ -1,0 +1,2 @@
+# StarForce-ILRuntime-
+将E大的GameFramework框架飞机游戏StarForce，改为接入ILRuntime的热更新模式，完美实现热更新
