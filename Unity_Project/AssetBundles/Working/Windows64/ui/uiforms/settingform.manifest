@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 2118528204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0f59cf211fd08e4332ec21693c25556
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b69299d2e0b5326befa7c3d6825a5b5b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dca69c3580994a642aa402365440c530, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5227c6b60020ac1459b5cbb62e78aa02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f8f769d69e08c54e9aa792243bc5fb9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/UI/UIForms/SettingForm.prefab
+Dependencies:
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/background
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/box
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/button-outline
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/checked
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/circle
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/dialog-background
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/dialog-title-background
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/info
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/line
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/progressbar
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/progressbar-background
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/common/progress-conner
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/icons/music
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/icons/sound
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/ui/uisprites/icons/world

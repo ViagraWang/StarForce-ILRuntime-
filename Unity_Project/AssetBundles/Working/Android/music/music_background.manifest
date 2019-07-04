@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 662732150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a410d41ff0f7c90e195329230b198bc4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Music/music_background.mp3
+Dependencies: []

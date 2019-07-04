@@ -1,0 +1,6 @@
+E:\OneDrive\UnityProject\GameFrame\GameFramework\CopyGF2019.2.1\Game.Hotfix\obj\Release\Game.Hotfix.csproj.CoreCompileInputs.cache
+E:\OneDrive\UnityProject\GameFrame\GameFramework\CopyGF2019.2.1\Library\ScriptAssemblies\Game.Hotfix.dll
+E:\OneDrive\UnityProject\GameFrame\GameFramework\CopyGF2019.2.1\Library\ScriptAssemblies\Game.Hotfix.pdb
+E:\OneDrive\UnityProject\GameFrame\GameFramework\CopyGF2019.2.1\Game.Hotfix\obj\Release\Game.Hotfix.csproj.CopyComplete
+E:\OneDrive\UnityProject\GameFrame\GameFramework\CopyGF2019.2.1\Game.Hotfix\obj\Release\Game.Hotfix.dll
+E:\OneDrive\UnityProject\GameFrame\GameFramework\CopyGF2019.2.1\Game.Hotfix\obj\Release\Game.Hotfix.pdb

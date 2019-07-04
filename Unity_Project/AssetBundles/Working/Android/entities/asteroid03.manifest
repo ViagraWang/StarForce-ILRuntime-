@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 599365878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ecfb01017ef943940f2907ac3394056
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4f006b82e8a70b233bc17a3bb8fd786f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Entities/Asteroid03.prefab
+Dependencies:
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Android/meshes/prop_asteroid_03
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Android/textures/textures

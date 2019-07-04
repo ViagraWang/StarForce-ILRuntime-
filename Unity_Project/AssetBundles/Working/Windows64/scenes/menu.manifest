@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1567260096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b498ebf1808608c9bb72a470d9685cb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf77212665cec61936c6481459aa3a3c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb16961a7ce9f364fb4f47bff83d93e1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Scenes/Menu.unity
+Dependencies:
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/textures/textures

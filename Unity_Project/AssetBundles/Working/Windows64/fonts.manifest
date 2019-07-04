@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2897393720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a03c8d6ecdb4c095e696992c6f81330
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d60d1eb4c7e99bf6d119c16dc6d5ab4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Fonts/MainFont.ttf
+Dependencies: []

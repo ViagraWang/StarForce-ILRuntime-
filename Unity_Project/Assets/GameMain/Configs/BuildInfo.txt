@@ -1,0 +1,9 @@
+{
+    "Game_Version": "0",
+    "Internal_Game_Version": 1,
+    "Check_Version_Url": "E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Full/1_0_0_4",
+    "Standalone_App_Url": "http://111.231.54.50:8080/Downlist/GameAssets/",
+    "Ios_App_Url": "http://111.231.54.50:8080/Downlist/GameAssets/",
+    "Android_App_Url": "http://111.231.54.50:8080/Downlist/GameAssets/",
+    "END_OF_JSON": "哈哈"
+}

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 736855380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6280cc3dd10e1cf16e691fa72c56444c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27295f96fcdc2b917bd061e8817c7e02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Entities/DefaultWeapon.prefab
+Dependencies: []

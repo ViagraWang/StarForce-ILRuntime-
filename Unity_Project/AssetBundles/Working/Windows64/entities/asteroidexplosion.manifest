@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 153025514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e6fb3fa87a5fb194272442eae7fb9a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e7a9a5bc260fb3cb7f278e39396d550
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Entities/AsteroidExplosion.prefab
+Dependencies:
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/textures/textures

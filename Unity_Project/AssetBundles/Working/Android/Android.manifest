@@ -1,0 +1,236 @@
+ManifestFileVersion: 0
+CRC: 3713293918
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: configs
+      Dependencies: {}
+    Info_1:
+      Name: datatables
+      Dependencies: {}
+    Info_2:
+      Name: entities/asteroid01
+      Dependencies:
+        Dependency_0: meshes/prop_asteroid_01
+        Dependency_1: textures/textures
+    Info_3:
+      Name: entities/asteroid02
+      Dependencies:
+        Dependency_0: meshes/prop_asteroid_02
+        Dependency_1: textures/textures
+    Info_4:
+      Name: entities/asteroid03
+      Dependencies:
+        Dependency_0: meshes/prop_asteroid_03
+        Dependency_1: textures/textures
+    Info_5:
+      Name: entities/asteroidexplosion
+      Dependencies:
+        Dependency_0: textures/textures
+    Info_6:
+      Name: entities/defaultarmor
+      Dependencies: {}
+    Info_7:
+      Name: entities/defaultweapon
+      Dependencies: {}
+    Info_8:
+      Name: entities/enemybolt
+      Dependencies:
+        Dependency_0: textures/textures
+    Info_9:
+      Name: entities/enemyengine
+      Dependencies:
+        Dependency_0: textures/textures
+    Info_10:
+      Name: entities/enemyexplosion
+      Dependencies:
+        Dependency_0: textures/textures
+    Info_11:
+      Name: entities/enemyship
+      Dependencies:
+        Dependency_0: meshes/vehicle_enemyship
+        Dependency_1: textures/textures
+    Info_12:
+      Name: entities/playerbolt
+      Dependencies:
+        Dependency_0: textures/textures
+    Info_13:
+      Name: entities/playerengine
+      Dependencies:
+        Dependency_0: textures/textures
+    Info_14:
+      Name: entities/playerexplosion
+      Dependencies:
+        Dependency_0: textures/textures
+    Info_15:
+      Name: entities/playership
+      Dependencies:
+        Dependency_0: meshes/vehicle_playership
+        Dependency_1: meshes/vehicle_playership_collider
+        Dependency_2: textures/textures
+    Info_16:
+      Name: fonts
+      Dependencies: {}
+    Info_17:
+      Name: hotfix
+      Dependencies: {}
+    Info_18:
+      Name: localization/dictionaries.en-us
+      Dependencies: {}
+    Info_19:
+      Name: localization/dictionaries.ko-kr
+      Dependencies: {}
+    Info_20:
+      Name: localization/dictionaries.zh-cn
+      Dependencies: {}
+    Info_21:
+      Name: localization/dictionaries.zh-tw
+      Dependencies: {}
+    Info_22:
+      Name: meshes/prop_asteroid_01
+      Dependencies: {}
+    Info_23:
+      Name: meshes/prop_asteroid_02
+      Dependencies: {}
+    Info_24:
+      Name: meshes/prop_asteroid_03
+      Dependencies: {}
+    Info_25:
+      Name: meshes/vehicle_enemyship
+      Dependencies: {}
+    Info_26:
+      Name: meshes/vehicle_playership
+      Dependencies: {}
+    Info_27:
+      Name: meshes/vehicle_playership_collider
+      Dependencies: {}
+    Info_28:
+      Name: music/music_about
+      Dependencies: {}
+    Info_29:
+      Name: music/music_background
+      Dependencies: {}
+    Info_30:
+      Name: music/music_menu
+      Dependencies: {}
+    Info_31:
+      Name: scenes/main
+      Dependencies:
+        Dependency_0: textures/textures
+    Info_32:
+      Name: scenes/menu
+      Dependencies:
+        Dependency_0: textures/textures
+    Info_33:
+      Name: sounds/sound
+      Dependencies: {}
+    Info_34:
+      Name: textures/textures
+      Dependencies: {}
+    Info_35:
+      Name: ui/uiforms/aboutform
+      Dependencies:
+        Dependency_0: ui/uisprites/logos/unity-logo
+    Info_36:
+      Name: ui/uiforms/dialogform
+      Dependencies:
+        Dependency_0: ui/uisprites/common/background
+        Dependency_1: ui/uisprites/common/button-outline
+        Dependency_2: ui/uisprites/common/dialog-background
+        Dependency_3: ui/uisprites/common/dialog-title-background
+    Info_37:
+      Name: ui/uiforms/menuform
+      Dependencies:
+        Dependency_0: ui/uisprites/common/button-outline
+    Info_38:
+      Name: ui/uiforms/settingform
+      Dependencies:
+        Dependency_0: ui/uisprites/common/background
+        Dependency_1: ui/uisprites/common/box
+        Dependency_2: ui/uisprites/common/button-outline
+        Dependency_3: ui/uisprites/common/checked
+        Dependency_4: ui/uisprites/common/circle
+        Dependency_5: ui/uisprites/common/dialog-background
+        Dependency_6: ui/uisprites/common/dialog-title-background
+        Dependency_7: ui/uisprites/common/info
+        Dependency_8: ui/uisprites/common/line
+        Dependency_9: ui/uisprites/common/progressbar
+        Dependency_10: ui/uisprites/common/progressbar-background
+        Dependency_11: ui/uisprites/common/progress-conner
+        Dependency_12: ui/uisprites/icons/music
+        Dependency_13: ui/uisprites/icons/sound
+        Dependency_14: ui/uisprites/icons/world
+    Info_39:
+      Name: ui/uiitems/hpbar
+      Dependencies:
+        Dependency_0: ui/uisprites/common/progressbar
+        Dependency_1: ui/uisprites/common/progressbar-background
+    Info_40:
+      Name: ui/uisounds/click
+      Dependencies: {}
+    Info_41:
+      Name: ui/uisounds/select
+      Dependencies: {}
+    Info_42:
+      Name: ui/uisprites/common/background
+      Dependencies: {}
+    Info_43:
+      Name: ui/uisprites/common/box
+      Dependencies: {}
+    Info_44:
+      Name: ui/uisprites/common/button-filled
+      Dependencies: {}
+    Info_45:
+      Name: ui/uisprites/common/button-outline
+      Dependencies: {}
+    Info_46:
+      Name: ui/uisprites/common/checked
+      Dependencies: {}
+    Info_47:
+      Name: ui/uisprites/common/circle
+      Dependencies: {}
+    Info_48:
+      Name: ui/uisprites/common/circle-filled
+      Dependencies: {}
+    Info_49:
+      Name: ui/uisprites/common/circle-outline
+      Dependencies: {}
+    Info_50:
+      Name: ui/uisprites/common/dialog-background
+      Dependencies: {}
+    Info_51:
+      Name: ui/uisprites/common/dialog-title-background
+      Dependencies: {}
+    Info_52:
+      Name: ui/uisprites/common/info
+      Dependencies: {}
+    Info_53:
+      Name: ui/uisprites/common/line
+      Dependencies: {}
+    Info_54:
+      Name: ui/uisprites/common/progressbar
+      Dependencies: {}
+    Info_55:
+      Name: ui/uisprites/common/progressbar-background
+      Dependencies: {}
+    Info_56:
+      Name: ui/uisprites/common/progress-conner
+      Dependencies: {}
+    Info_57:
+      Name: ui/uisprites/common/round-button-filled
+      Dependencies: {}
+    Info_58:
+      Name: ui/uisprites/common/round-button-outline
+      Dependencies: {}
+    Info_59:
+      Name: ui/uisprites/icons/music
+      Dependencies: {}
+    Info_60:
+      Name: ui/uisprites/icons/sound
+      Dependencies: {}
+    Info_61:
+      Name: ui/uisprites/icons/world
+      Dependencies: {}
+    Info_62:
+      Name: ui/uisprites/logos/unity-logo
+      Dependencies: {}

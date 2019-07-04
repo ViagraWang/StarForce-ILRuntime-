@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 111168805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc52d849ad8f6560dd29790f3c1cd94b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Localization/Csv/Korean.csv
+- Assets/GameMain/Localization/Bytes/Korean.bytes
+Dependencies: []

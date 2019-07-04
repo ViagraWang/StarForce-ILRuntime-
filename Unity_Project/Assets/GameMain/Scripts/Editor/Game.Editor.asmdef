@@ -1,0 +1,24 @@
+{
+    "name": "Game.Editor",
+    "references": [
+        "UnityGameFrame.Runtime",
+        "UnityGameFrame.Editor",
+        "Game.Runtime",
+        "ThirdParty.Library"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Spire.Common.dll",
+        "Spire.License.dll",
+        "Spire.Pdf.dll",
+        "Spire.XLS.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

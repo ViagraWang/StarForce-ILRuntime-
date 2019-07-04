@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2575128484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71a02c1b4ad11f0112e5bb086cb5dce8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Localization/Bytes/ChineseTraditional.bytes
+- Assets/GameMain/Localization/Csv/ChineseTraditional.csv
+Dependencies: []

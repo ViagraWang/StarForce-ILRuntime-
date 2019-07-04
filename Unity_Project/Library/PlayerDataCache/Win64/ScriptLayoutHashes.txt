@@ -1,0 +1,7 @@
+Win64
+PlayerPath?
+E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/scenes/menu
+SceneListBegin?
+Assets/GameMain/Scenes/Menu.unity
+SceneListEnd?
+55bef487c49715ef384661e6a88104cf Game.Runtime.dll:Game.Hotfix.ScrollableBackground

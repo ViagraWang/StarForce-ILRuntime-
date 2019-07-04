@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 408005790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f589cf01d1e97160616a14b4d57d413e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3c433c07b86703577ee99da48a0ecbb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Entities/EnemyShip.prefab
+Dependencies:
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/meshes/vehicle_enemyship
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/textures/textures

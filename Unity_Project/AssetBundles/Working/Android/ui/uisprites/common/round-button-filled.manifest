@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1297517838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a059437758affda42d2c4307d5ca3ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/UI/UISprites/Common/round-button-filled.png
+Dependencies: []

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1388459768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6dcab4d5d8cd46fb8ef1df14e230c15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/DataTables/Bytes/Aircraft.bytes
+- Assets/GameMain/DataTables/Bytes/Thruster.bytes
+- Assets/GameMain/DataTables/Csv/UIForm.csv
+- Assets/GameMain/DataTables/Bytes/UIForm.bytes
+- Assets/GameMain/DataTables/Bytes/Armor.bytes
+- Assets/GameMain/DataTables/Bytes/Weapon.bytes
+- Assets/GameMain/DataTables/Csv/Scene.csv
+- Assets/GameMain/DataTables/Csv/Asteroid.csv
+- Assets/GameMain/DataTables/Csv/Music.csv
+- Assets/GameMain/DataTables/Csv/Thruster.csv
+- Assets/GameMain/DataTables/Bytes/Music.bytes
+- Assets/GameMain/DataTables/Bytes/UISound.bytes
+- Assets/GameMain/DataTables/Bytes/Scene.bytes
+- Assets/GameMain/DataTables/Csv/Weapon.csv
+- Assets/GameMain/DataTables/Csv/Aircraft.csv
+- Assets/GameMain/DataTables/Bytes/Entity.bytes
+- Assets/GameMain/DataTables/Bytes/Sound.bytes
+- Assets/GameMain/DataTables/Csv/Entity.csv
+- Assets/GameMain/DataTables/Csv/UISound.csv
+- Assets/GameMain/DataTables/Csv/Sound.csv
+- Assets/GameMain/DataTables/Csv/Armor.csv
+- Assets/GameMain/DataTables/Bytes/Asteroid.bytes
+Dependencies: []

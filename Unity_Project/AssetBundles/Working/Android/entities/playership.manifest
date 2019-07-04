@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 841942524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4325e0d16c11ec26756d811324feef7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2366d4acd8c24d2e8fbf799688ff709b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Entities/PlayerShip.prefab
+Dependencies:
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Android/meshes/vehicle_playership
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Android/meshes/vehicle_playership_collider
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Android/textures/textures

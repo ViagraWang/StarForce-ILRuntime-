@@ -1,0 +1,7 @@
+﻿"#"	"语言key"	"#策划备注"	"English"	"ChineseSimplified"	"ChineseTraditional"	"Korean"
+	"Language.English"		"English"	"英语"	"英語"	"영어"
+	"Language.ChineseSimplified"		"Chinese Simplified"	"简体中文"	"簡體中文"	"중국어 간체"
+	"Language.ChineseTraditional"		"Chinese Traditional"	"繁体中文"	"繁體中文"	"중국어 번체"
+	"Language.Korean"		"Korean"	"韩语"	"韓語"	"한국어"
+	"CheckVersion.Tips"		"Checking if the game needs update. Please wait..."	"正在检查游戏是否需要更新，请稍候……"	"正在檢查遊戲是否需要更新，請稍候……"	"게임 최신 버전 검색중..."
+	"UpdateResource.Tips"		"{0}/{1}, {2}/{3}, {4:P0}, {5}/s"	"{0}/{1}, {2}/{3}, {4:P0}, {5}/s"	"{0}/{1}, {2}/{3}, {4:P0}, {5}/s"	"{0}/{1}, {2}/{3}, {4:P0}, {5}/s"

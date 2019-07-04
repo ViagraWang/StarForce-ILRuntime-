@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 130720242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4d954d0906463d065cced666243a8af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Localization/Bytes/English.bytes
+- Assets/GameMain/Localization/Csv/English.csv
+Dependencies: []

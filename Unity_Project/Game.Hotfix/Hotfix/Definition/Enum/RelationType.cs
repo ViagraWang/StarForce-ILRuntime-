@@ -1,0 +1,30 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Game.Hotfix
+{	
+	//关系类型
+	public enum RelationType
+	{
+	    /// <summary>
+	    /// 未知的。
+	    /// </summary>
+	    Unknown,
+	
+	    /// <summary>
+	    /// 友好的。
+	    /// </summary>
+	    Friendly,
+	
+	    /// <summary>
+	    /// 中立的。
+	    /// </summary>
+	    Neutral,
+	
+	    /// <summary>
+	    /// 敌对的。
+	    /// </summary>
+	    Hostile
+	}
+}

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2654341041
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90b0b1dea21bfb5db36fec6a2d62436f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 969a72331f48c95269bbb0f5e0c64e42
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Entities/EnemyEngine.prefab
+Dependencies:
+- E:/OneDrive/UnityProject/GameFrame/GameFramework/CopyGF2019.2.1/AssetBundles/Working/Windows64/textures/textures

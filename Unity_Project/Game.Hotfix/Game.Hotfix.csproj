@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{737F11BF-03FD-4083-9C31-9F90428978A1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Game</RootNamespace>
+    <AssemblyName>Game.Hotfix</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Library\ScriptAssemblies\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RegisterForComInterop>false</RegisterForComInterop>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Game.Runtime">
+      <HintPath>..\Library\ScriptAssemblies\Game.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GameFramework">
+      <HintPath>..\Assets\GameFramework\UnityGameFrame\Libraries\GameFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ThirdParty.Library">
+      <HintPath>..\Library\ScriptAssemblies\ThirdParty.Library.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>References\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>References\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>References\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>References\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>References\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>References\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityGameFrame.Runtime, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Library\ScriptAssemblies\UnityGameFrame.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Hotfix\Base\ObjectPool\IObjectPool.cs" />
+    <Compile Include="Hotfix\Base\ObjectPool\IObjectPoolManager.cs" />
+    <Compile Include="Hotfix\Base\ObjectPool\ObjectBase.cs" />
+    <Compile Include="Hotfix\Base\ObjectPool\ObjectInfo.cs" />
+    <Compile Include="Hotfix\Base\ObjectPool\ObjectPoolBase.cs" />
+    <Compile Include="Hotfix\Base\ObjectPool\ObjectPoolManager.cs" />
+    <Compile Include="Hotfix\Base\ObjectPool\ObjectPoolManager.Object.cs" />
+    <Compile Include="Hotfix\Base\ObjectPool\ObjectPoolManager.ObjectPool.cs" />
+    <Compile Include="Hotfix\Base\ObjectPool\ReleaseObjectFilterCallback.cs" />
+    <Compile Include="Hotfix\Components\HPBar\HPBarComponent.cs" />
+    <Compile Include="Hotfix\Components\HPBar\HPBarItem.cs" />
+    <Compile Include="Hotfix\Components\HPBar\HPBarItemObject.cs" />
+    <Compile Include="Hotfix\Definition\Constant\Constant.AssetPriority.cs" />
+    <Compile Include="Hotfix\Definition\Constant\Constant.Layer.cs" />
+    <Compile Include="Hotfix\Definition\Constant\Constant.ProcedureData.cs" />
+    <Compile Include="Hotfix\Definition\DataStruct\ImpactData.cs" />
+    <Compile Include="Hotfix\Definition\Enum\CampType.cs" />
+    <Compile Include="Hotfix\Definition\Enum\GameMode.cs" />
+    <Compile Include="Hotfix\Definition\Enum\QualityLevelType.cs" />
+    <Compile Include="Hotfix\Definition\Enum\RelationType.cs" />
+    <Compile Include="Hotfix\Entity\EntityData\AircraftData.cs" />
+    <Compile Include="Hotfix\Entity\EntityData\ArmorData.cs" />
+    <Compile Include="Hotfix\Entity\EntityData\AsteroidData.cs" />
+    <Compile Include="Hotfix\Entity\EntityData\Base\AccessoryObjectData.cs" />
+    <Compile Include="Hotfix\Entity\EntityData\Base\EntityData.cs" />
+    <Compile Include="Hotfix\Entity\EntityData\Base\TargetableObjectData.cs" />
+    <Compile Include="Hotfix\Entity\EntityData\BulletData.cs" />
+    <Compile Include="Hotfix\Entity\EntityData\EffectData.cs" />
+    <Compile Include="Hotfix\Entity\EntityData\MyAircraftData.cs" />
+    <Compile Include="Hotfix\Entity\EntityData\ThrusterData.cs" />
+    <Compile Include="Hotfix\Entity\EntityData\WeaponData.cs" />
+    <Compile Include="Hotfix\Entity\HotEntityExtension.cs" />
+    <Compile Include="Hotfix\Entity\EntityLogic\Aircraft.cs" />
+    <Compile Include="Hotfix\Entity\EntityLogic\Armor.cs" />
+    <Compile Include="Hotfix\Entity\EntityLogic\Asteroid.cs" />
+    <Compile Include="Hotfix\Entity\EntityLogic\Base\EntityLogicBase.cs" />
+    <Compile Include="Hotfix\Entity\EntityLogic\Base\TargetableObject.cs" />
+    <Compile Include="Hotfix\Entity\EntityLogic\Bullet.cs" />
+    <Compile Include="Hotfix\Entity\EntityLogic\Effect.cs" />
+    <Compile Include="Hotfix\Entity\EntityLogic\MyAircraft.cs" />
+    <Compile Include="Hotfix\Entity\EntityLogic\Thruster.cs" />
+    <Compile Include="Hotfix\Entity\EntityLogic\Weapon.cs" />
+    <Compile Include="Hotfix\Game\GameBase.cs" />
+    <Compile Include="Hotfix\Game\SurvivalGame.cs" />
+    <Compile Include="Hotfix\HotfixEntry.cs" />
+    <Compile Include="Hotfix\Procedure\ProcedureChangeScene.cs" />
+    <Compile Include="Hotfix\Procedure\Base\ProcedureLogic.cs" />
+    <Compile Include="Hotfix\Procedure\ProcedureMain.cs" />
+    <Compile Include="Hotfix\Procedure\ProcedureMenu.cs" />
+    <Compile Include="Hotfix\Base\ReferencePool\IReference.cs" />
+    <Compile Include="Hotfix\Base\ReferencePool\ReferencePool.cs" />
+    <Compile Include="Hotfix\Base\ReferencePool\ReferencePool.ReferenceCollection.cs" />
+    <Compile Include="Hotfix\Base\ReferencePool\ReferencePoolInfo.cs" />
+    <Compile Include="Hotfix\UI\AboutForm.cs" />
+    <Compile Include="Hotfix\UI\Base\UIFormBase.cs" />
+    <Compile Include="Hotfix\UI\Base\UIFormID.cs" />
+    <Compile Include="Hotfix\UI\DialogForm.cs" />
+    <Compile Include="Hotfix\UI\MenuForm.cs" />
+    <Compile Include="Hotfix\UI\SettingForm.cs" />
+    <Compile Include="Hotfix\UI\HotUIExtension.cs" />
+    <Compile Include="Hotfix\Utility\AIUtility.cs" />
+    <Compile Include="Hotfix\Utility\HotAssetUtility.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Hotfix\Config\" />
+    <Folder Include="Hotfix\DataTable\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

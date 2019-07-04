@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3465427377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 700d4848228bfbc2e8cfbe6da4a4e852
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/UI/UISprites/Common/progressbar-background.png
+Dependencies: []

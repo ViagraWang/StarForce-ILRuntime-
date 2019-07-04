@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3161418687
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d72416cfc45e49ae8e8ffde58c585a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 798811b7255c82b34a9f8780c2ce846a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Meshes/prop_asteroid_02.FBX
+Dependencies: []

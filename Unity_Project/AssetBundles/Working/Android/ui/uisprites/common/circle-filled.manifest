@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1120395876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bc662cc0642a91b4636b1a5ad52df09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/UI/UISprites/Common/circle-filled.png
+Dependencies: []
